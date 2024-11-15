@@ -1,2 +1,5 @@
-age = 30
-new_age = 30
+print('Hi, PyCharm')
+x = 43
+y = 32
+print(x * y)
+print("End line")
