@@ -104,3 +104,4 @@ print(len(circle1))
 
 # Проверка объёма (куба):
 print(cube1.get_volume())
+# 123
